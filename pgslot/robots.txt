@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:http://origin.api.medicalaffairs.philips.com/pgslot/sitemap.xml
